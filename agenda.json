@@ -1,1 +1,25 @@
-[]
+[
+  { "data": "2026-11-04", "texto": "Reunião com Gemma 8h30" },
+
+  { "semanal": [1], "texto": "Natação e Inglês", "escolar": true, "de": "2026-09-08", "ate": "2027-06-21" },
+  { "semanal": [2], "texto": "Ed. Física (uniforme)", "escolar": true, "de": "2026-09-08", "ate": "2027-06-21" },
+  { "semanal": [3], "texto": "Robótica", "escolar": true, "de": "2026-09-08", "ate": "2027-06-21" },
+  { "semanal": [5], "texto": "Ed. Física", "escolar": true, "de": "2026-09-08", "ate": "2027-06-21" },
+
+  { "data": "2026-09-08", "texto": "Início do curso" },
+  { "data": "2027-06-21", "texto": "Último dia de aula" },
+
+  { "data": "2026-09-11", "texto": "Sem aula: Diada da Catalunha", "sem_aula": true },
+  { "data": "2026-09-21", "texto": "Sem aula: Sant Mateu", "sem_aula": true },
+  { "data": "2026-10-12", "texto": "Sem aula: Dia da Hispanidade", "sem_aula": true },
+  { "data": "2026-12-08", "texto": "Sem aula: Imaculada Conceição", "sem_aula": true },
+  { "data": "2027-05-17", "texto": "Sem aula: Segunda Páscoa", "sem_aula": true },
+
+  { "data": "2026-11-02", "texto": "Sem aula (livre disposição)", "sem_aula": true },
+  { "data": "2026-12-07", "texto": "Sem aula (livre disposição)", "sem_aula": true },
+  { "data": "2027-02-08", "texto": "Sem aula (livre disposição)", "sem_aula": true },
+  { "data": "2027-04-30", "texto": "Sem aula (livre disposição)", "sem_aula": true },
+
+  { "de": "2026-12-22", "ate": "2027-01-07", "texto": "Férias de Natal", "sem_aula": true },
+  { "de": "2027-03-20", "ate": "2027-03-29", "texto": "Semana Santa: sem aula", "sem_aula": true }
+]
